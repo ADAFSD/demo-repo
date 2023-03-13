@@ -1,3 +1,0 @@
-# Demo
-
-Just for Practice!
